@@ -1,5 +1,11 @@
 # Приветствие  🦕
 
+<div align="center">
+
+![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
+  
+</div>
+
 Блок о себе. Здесь можно написать все то, что описывает вас как специалиста 
 
 _Пример_ 
@@ -9,6 +15,18 @@ _Меня зовут Роберто. Я QA Enginner - cильный специа
 ## My CV 
 
 [Здесь будет сслыка на резюме](https://ссылочку_сюда)
+
+## Портфолио 
+- Тестовая документация
+  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://ссылочку_сюда)
+  -  [Mind maps](https://ссылочку_сюда)
+  -  [Баг-репорты](https://ссылочку_сюда)
+- Коллекция в Postman 
+  -  [Название проекта](https://ссылочку_сюда)
+- SQL запросы 
+  -  [Название проектв](https://ссылочку_сюда)
+  
 
 ## Инструменты и технологии
 Блок для инструментов. Вы можете использовать мои иконки или создать папку у себя в проекте
@@ -40,5 +58,11 @@ _Меня зовут Роберто. Я QA Enginner - cильный специа
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
 </p>
 
+## Мои контакты
 
-[![Linkedin: jennaqa](https://img.shields.io/badge/-jennaqa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennaqa/)](https://www.linkedin.com/in/jennaqa/)
+[![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jennaqa)
+[![Website: jennaqa](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://qajenna.com/)
+[![Instagram: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jennaisakova)
+
+
